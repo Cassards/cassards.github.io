@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/image/zakim.jpg"
+    image: "/images/zakim.jpg"
 ---
 
 * junior
