@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Projets/
+permalink: /projets/
 title: "Mes différents projets"
 author_profile: true
 header: 

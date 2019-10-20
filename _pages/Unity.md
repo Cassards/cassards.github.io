@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Unity/
+permalink: /unity/
 title: "Mes réalisations sous Unity"
 author_profile: true
 header: 
