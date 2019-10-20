@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "SectionTest"
-    url: /section-test/
   - title: "Projets"
     url: /projets/
   - title: "Unity"
     url: /unity/
   - title: "About"
     url: /about/
+  #- title: "SectionTest"
+  # url: /section-test/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
