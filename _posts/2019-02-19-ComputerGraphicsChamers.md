@@ -5,39 +5,77 @@ permalink: /computer-graphics-chalmers/
 tags: [opengl, c++, chalmers, graphique 3D]
 header:
     image: "/images/perceptron/percept.jpg"
-excerpt: "Descriptif"
+excerpt: "Projets de graphiques 3D avec OpenGL."
 mathjax: true
 ---
 
 # Computer Graphics
+[Ajouter images]
 
-## Titre 2
+Lors de mon semestre d'études en Suède, j'ai suivi un cours de graphique 3D. J'ai pu travailler de nombreuses notions au travers des différents projets que ce cours proposait.
 
-### Titre 3
+## Rendu de triangles
 
-[lien](https://cassards.github.io/)
+### Présentation 
+Bases de l'écriture d'une application OpenGL.
+### Notions
+* buffer objects (BO) / vertex array objects (VAO)
+* fragment & vertex shaders
 
-Blablablablabla:
-* Bla 1
-* bla 2
-* bla 3
 
-Python code block:
-```python
-import numpy as np
+## Textures
+### Présentation
+Affichage et filtrage de textures.
+### Notions
+* Texture parameters
+* Texture filtering (mipmapping, anisotropic filtering)
+* Alpha blending
 
-def test_function(x,y):
-    z = np.sum(x,y)
-    return z
-```
-image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
-image Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+## Animation
+### Présentation
+Applications de transformations pour déplacer des objets et la caméra.
+### Notions
+* Modele Vue Projection Matrice
+* Transformations : Translation, rotation, mise à l'échelle.
+* Control de la caméra 
 
-math:
 
-$$z=x+y$$
+## Shaders
+### Présentation
+Création d'un shader basé sur la physique.
+Calcul de la quantité de lumière réfléchie depuis une surface vers la caméra. 
+Calcul de l'éclairage direct à partir de points lumineux et de la réflexion spéculaire à partir d'une environment map.
+### Notions
+* Illumination directe / indirecte
+* Eclairage diffus / irradiance map
+* Réflexions
+* Paramètres des matériaux 
+* Torrance-Sparrow Microfacet BRDF (Bidirectional Reflectance Distribution Function)
 
-inline math $$z=x+y$$
+
+## Post-traitement
+### Présentation
+Mise à jour dynamique des textures et application de passes de post-traitement.
+### Notions
+* Framebuffer
+* rendu hors écran utilisé comme texture
+* fragment shader pour les effets de post-traitement
+
+
+## Shadow Maps
+### Présentation
+Calcul des ombres en temps réel en utilisant les shadow maps.
+### Notions
+* Shadow map
+* Shadow Acne
+* Hardware Support (Percentage Closer Filtering, depth map)
+
+
+## Système de particules
+### Présentation
+Mise en place un système de particules.
+
+### Notions
+* Generer et simuler des particules
+* Rendu des particules sur le GPU
