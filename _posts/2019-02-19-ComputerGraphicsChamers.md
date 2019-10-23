@@ -10,8 +10,6 @@ mathjax: true
 ---
 
 # Computer Graphics
-[Ajouter images]
-
 Lors de mon semestre d'études en Suède, j'ai suivi un cours de graphique 3D. J'ai pu travailler de nombreuses notions au travers des différents projets que ce cours proposait.
 
 ## Rendu de triangles
@@ -21,7 +19,7 @@ Bases de l'écriture d'une application OpenGL.
 ### Notions
 * buffer objects (BO) / vertex array objects (VAO)
 * fragment & vertex shaders
-
+[image]
 
 ## Textures
 ### Présentation
@@ -30,7 +28,7 @@ Affichage et filtrage de textures.
 * Texture parameters
 * Texture filtering (mipmapping, anisotropic filtering)
 * Alpha blending
-
+[image]
 
 ## Animation
 ### Présentation
@@ -39,7 +37,7 @@ Applications de transformations pour déplacer des objets et la caméra.
 * Modele Vue Projection Matrice
 * Transformations : Translation, rotation, mise à l'échelle.
 * Control de la caméra 
-
+[image]
 
 ## Shaders
 ### Présentation
@@ -52,7 +50,7 @@ Calcul de l'éclairage direct à partir de points lumineux et de la réflexion s
 * Réflexions
 * Paramètres des matériaux 
 * Torrance-Sparrow Microfacet BRDF (Bidirectional Reflectance Distribution Function)
-
+[image]
 
 ## Post-traitement
 ### Présentation
@@ -61,7 +59,7 @@ Mise à jour dynamique des textures et application de passes de post-traitement.
 * Framebuffer
 * rendu hors écran utilisé comme texture
 * fragment shader pour les effets de post-traitement
-
+[image]
 
 ## Shadow Maps
 ### Présentation
@@ -70,12 +68,12 @@ Calcul des ombres en temps réel en utilisant les shadow maps.
 * Shadow map
 * Shadow Acne
 * Hardware Support (Percentage Closer Filtering, depth map)
-
+[image]
 
 ## Système de particules
 ### Présentation
 Mise en place un système de particules.
-
 ### Notions
 * Generer et simuler des particules
 * Rendu des particules sur le GPU
+[image]
