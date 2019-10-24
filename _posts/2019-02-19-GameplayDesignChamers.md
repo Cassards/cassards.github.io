@@ -39,7 +39,7 @@ Donner une définition personnelle de ce qu'est un jeu.
 #### Notions 
 * Réfléchir sur ce qu'est un jeu et sur la façon dont les autres voient le jeu.
 * Rédiger un texte argumentatif
-* Etudier les caracteristiques communes et les différences entre les genres et les médiums de jeux.
+* Etudier les caractéristiques communes et les différences entre les genres et les médiums de jeux.
 [Inserer document]
 
 ### Analyses de jeux à l'aide d'outils de game design

@@ -25,8 +25,8 @@ Bases de l'écriture d'une application OpenGL.
 ### Présentation
 Affichage et filtrage de textures.
 ### Notions
-* Texture parameters
-* Texture filtering (mipmapping, anisotropic filtering)
+* Paramètre des textures
+* Filtrage des textures (mipmapping, anisotropic filtering)
 * Alpha blending
 [image]
 
@@ -34,7 +34,7 @@ Affichage et filtrage de textures.
 ### Présentation
 Applications de transformations pour déplacer des objets et la caméra.
 ### Notions
-* Modele Vue Projection Matrice
+* Modèle Vue Projection Matrice
 * Transformations : Translation, rotation, mise à l'échelle.
 * Control de la caméra 
 [image]
@@ -74,6 +74,6 @@ Calcul des ombres en temps réel en utilisant les shadow maps.
 ### Présentation
 Mise en place un système de particules.
 ### Notions
-* Generer et simuler des particules
+* Générer et simuler des particules
 * Rendu des particules sur le GPU
 [image]
