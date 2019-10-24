@@ -26,7 +26,7 @@ Développer un concept de jeu de l'idée initiale à un document complet de game
 * Présenter des concepts de jeux à une audience.
 * Faire une description détaillée d'un concept de jeu
 * Planifier et décrire le processus de développement d'un concept
-* Motiver les décisions de conception en comparant différentes alternatives
+* Motiver des décisions de conception en comparant différentes alternatives
 [Inserer images et documents]
 
 ## Autres travaux
