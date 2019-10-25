@@ -24,37 +24,36 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Technologie des processeurs 
 * Technologie de mémoire
 
-## Travaux pratiques [TODO]
+## Travaux pratiques
 
-Les travaux pratiques ne sont pas réellement des projets,
+Voici quelques travaux pratiques réalisés dans le cadre de ce cours.
 
-### Lab1
-
-In this lab we will learn how to parallelize programs with pthreads and openmp. You will do a series of instructive exercises for each programming model and then use what you have learned to study Amdahl's law in practice.
-
+### Parallélisation de programmes
+#### Présentation
+Parallélisation de programmes en utilisant pthreads et openmp. 
+Etude de la loi d'Amdahl dans la pratique.
+#### Notions
 * PThread
 * OpenMP
+* Amdahl's law
 
 
-### Lab2
-
-The purpose of this lab exercise is to acquaint you performance monitoring and understanding parallel program performance. For this you will be using the same code as in the previous lab. By now you should have available three versions of the life game program. 1. The serial version provided to you 2. The parallel version using threads 3. The OpenMP version you made for the lab.
-For this lab we are goind to use perf  to get some insight into the runtime characteristics of each version of your programs. For a deeper tutorial on perf look ta (https://perf.wiki.kernel.org/index.php/Tutorial).
-Go through the steps in this lab one by one and answer all questions in your lab report
-
+### Monitoring de performances
+#### Présentation
+Monitoring et compréhension des performances des programmes parallèles.
+#### Notions
+* Monitoring de performance
+* Utilisation de l'outil perf (https://perf.wiki.kernel.org/index.php/Tutorial)
 * cache misses
-* last level cache
-* l1 cache
+* niveaux de cache
 
-### Lab3
-
-The purpose of this lab exercise is to acquaint you with synchronization primitives.
-For this lab we are going to use perf  to get some insight into the runtime characteristics of each version of your programs. 
-Go through the steps in this lab one by one and answer all questions in your lab report.
-
-Mutual exclusion 
-Acquire, release, waiting schemes. 
-Barrier Synchronization 
+### Primitives de synchronisation
+#### Présentation
+Familiariser avec les primitives de synchronisation.
+#### Notions
+* Exclusion mutuelle
+* Acquisition, libération, schéma d'attente. 
+* Barrière de synchronisation 
 
 
  

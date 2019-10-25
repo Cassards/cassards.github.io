@@ -11,23 +11,28 @@ mathjax: true
 
 # Stochastic Optimization Algorithms
 
-## HP1
+Ce cours était structuré autour de différents "Home problems" à rendre toutes les 3 semaines. Ceux ci correspondent à des projets à réaliser en autonomie, demandant de mettre en application les concepts théoriques vus en cours.
 
-Penalty method (Mandatory): we shall use the penalty method (see pp. 30-33 in the course book) to ﬁnd the minimum of a function 
-Write a Matlab program for solving the unconstrained problem of ﬁnding the minimum of fp(x;µ) using the method of gradient descent.
+## Mise en application de différentes méthodes basiques d'optimisations
+### Présentation
+Ce projet a pour objectif de mettre en place plusieurs méthodes d'optimisation de fonction. (pénalisation, descente de gradient, algorithme génétique).
+### Notions
+* Optimisation sous contraintes
+* Optimisation sans contraintes
+* Technique de pénalisation
+* Descente de gradient
+* Algorithme génétique
 
-Write a standard genetic algorithm (GA) using (some of) the components described in Sect. 3.2.1 of the course book.
-
-## HP2
-
-The traveling salesman problem (TSP) :
-* Write a GA (named GA21b.m) that can search for the shortest path between N cities
-* Ant colony optimization (ACO) 
-* make a long run with each of the two algorithms (GA and ACO) described above. 
-
-Particle swarm optimization :
-* You will implement and use particle swarm optimization (PSO), which is a stochastic optimization method based on the properties of swarms, such as bird ﬂocks, ﬁsh schools etc. 
-* Next, use your PSO (named PSO22.m) to ﬁnd the exact location of all the local minima.
-
-Function ﬁtting using LGP :
-Start by writing a general LGP program (called LGP24.m), with M variable registers, N constant registers, and the operator set {+,−,×,/}. The program should evolve linear chromosomes using tournament selection, two-point crossover (see pp. 76-77 in the book), and mutations. 
+## Mise en application de différentes méthodes avancées d'optimisations
+### Présentation
+Ce projet consiste en 3 parties distinctes :
+* Résoudre le problème du voyageur de commerce en utilisant plusieurs techniques (algorithme génétique et algorithme de colonies de fourmis).
+* Trouver les emplacements exacts de tous les minima locaux d'une fonction en utilisant l'optimisation par essaims particulaires.
+* Ajustement de courbe en utilisant un algorithme génétique. 
+### Notions
+* Voyageur de commerce
+* Algorithme génétique
+* Algorithme de colonies de fourmis
+* Optimisation par essaims particulaires
+* Ajustement de courbe
+* Optimisation
