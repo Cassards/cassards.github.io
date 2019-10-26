@@ -28,6 +28,13 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 ![alt]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
 #### 2
 ![caterpillar]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+#### 3
+[lien](https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+#### 4
+<iframe src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=2" width=”100%” height=”100%”>
+#### 5
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=2" type=”application/pdf” width=”100%” height=”100%”>
+
 
 ![alt]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/comp_perf_20.png)
 
