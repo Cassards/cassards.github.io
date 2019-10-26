@@ -24,7 +24,11 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Technologie des processeurs 
 * Technologie de mémoire
 
-![LIEN PDF]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+#### 1
+![alt]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+#### 2
+![caterpillar]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+
 ![alt]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/comp_perf_20.png)
 
 
