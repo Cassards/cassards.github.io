@@ -24,6 +24,9 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Technologie des processeurs 
 * Technologie de mémoire
 
+![LIEN PDF](/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+
+
 ## Travaux pratiques
 
 Voici quelques travaux pratiques réalisés dans le cadre de ce cours.
