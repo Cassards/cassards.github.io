@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sébastien CASSARD"
   avatar           : "images/bio-pic-2.jpg"
-  bio              : "Ingénieur Ensimag (informatique et mathématiques appliquées)"
+  bio              : "Ingénieur Ensimag \nInformatique et mathématiques appliquées"
   location         : "Région de Paris, FRANCE"
   linkedin         : "sebastien-cassard"
   email            :
@@ -117,6 +117,13 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:sebastien@cassard.fr
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Cassards"
+    - label: "LinkedIn"
+      icon: "fa fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/sebastien-cassard/"
+    
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,26 +133,27 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Cassards"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
     
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Cassards"
+
+    - label: "LinkedIn"
+      icon: "fa fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/sebastien-cassard/"
+    
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Cassards"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -155,10 +163,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/sebastien-cassard/"
-
 
 # Reading Files
 include:
