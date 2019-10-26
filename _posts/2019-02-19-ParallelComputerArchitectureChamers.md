@@ -24,19 +24,6 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Technologie des processeurs 
 * Technologie de mémoire
 
-
-#### 1
-[lien1](https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
-[lien2]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
-
-#### 3
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=2" type="application/pdf" width="100%" height="100%"></embed>
-
-
-#### 2
-<iframe src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf" width="100%" height="100%"></iframe>
-
-
 ## Travaux pratiques
 
 Voici quelques travaux pratiques réalisés dans le cadre de ce cours.
