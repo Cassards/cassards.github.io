@@ -122,7 +122,7 @@ author:
       url: "https://github.com/Cassards"
     - label: "LinkedIn"
       icon: "fa fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/sebastien-cassard/"
+      #url: "https://www.linkedin.com/in/sebastien-cassard/"
     
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -146,7 +146,7 @@ footer:
 
     - label: "LinkedIn"
       icon: "fa fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/sebastien-cassard/"
+      # url: "https://www.linkedin.com/in/sebastien-cassard/"
     
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
