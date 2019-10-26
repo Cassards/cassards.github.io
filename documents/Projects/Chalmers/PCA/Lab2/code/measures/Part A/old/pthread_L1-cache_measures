@@ -1,0 +1,36 @@
+
+ Performance counter stats for './build/parallel_pthread 100000 100000 1':
+
+   100 051 129 774      instructions                                                
+    70 016 150 257      L1-dcache-loads                                             
+     1 253 359 090      L1-dcache-load-misses     #    1,79% of all L1-dcache hits  
+
+      35,591884888 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_pthread 100000 100000 2':
+
+   100 038 265 425      instructions                                                
+    70 012 119 413      L1-dcache-loads                                             
+     1 252 367 203      L1-dcache-load-misses     #    1,79% of all L1-dcache hits  
+
+      17,739908047 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_pthread 100000 100000 4':
+
+   100 070 957 838      instructions                                                
+    70 022 805 719      L1-dcache-loads                                             
+     1 254 790 708      L1-dcache-load-misses     #    1,79% of all L1-dcache hits  
+
+      12,939261922 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_pthread 100000 100000 8':
+
+   100 125 176 295      instructions                                                
+    70 040 175 323      L1-dcache-loads                                             
+     1 257 819 867      L1-dcache-load-misses     #    1,80% of all L1-dcache hits  
+
+      12,929415990 seconds time elapsed
+

@@ -1,0 +1,32 @@
+
+ Performance counter stats for './build/parallel_omp 100000000 5 1':
+
+           411 375      LLC-loads                                                   
+           206 776      LLC-load-misses           #   50,26% of all LL-cache hits   
+
+       2,078474579 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_omp 100000000 5 2':
+
+           669 443      LLC-loads                                                   
+           229 412      LLC-load-misses           #   34,27% of all LL-cache hits   
+
+       1,462607583 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_omp 100000000 5 4':
+
+           472 027      LLC-loads                                                   
+           223 814      LLC-load-misses           #   47,42% of all LL-cache hits   
+
+       1,347697843 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_omp 100000000 5 8':
+
+           499 406      LLC-loads                                                   
+           225 584      LLC-load-misses           #   45,17% of all LL-cache hits   
+
+       1,257513966 seconds time elapsed
+

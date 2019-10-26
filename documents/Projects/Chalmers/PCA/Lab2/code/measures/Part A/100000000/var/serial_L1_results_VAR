@@ -1,0 +1,9 @@
+
+ Performance counter stats for './build/serial_VAR 100000000 5':
+
+     7 486 298 854      instructions                                                
+     4 727 762 314      L1-dcache-loads                                             
+        27 424 890      L1-dcache-load-misses     #    0,58% of all L1-dcache hits  
+
+       1,761003516 seconds time elapsed
+

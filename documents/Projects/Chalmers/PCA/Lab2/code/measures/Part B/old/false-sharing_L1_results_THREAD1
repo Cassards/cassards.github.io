@@ -1,0 +1,18 @@
+
+ Performance counter stats for './build/false_sharing':
+
+     5 504 546 966      instructions                                                
+     2 501 220 305      L1-dcache-loads                                             
+            63 200      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       1,541123796 seconds time elapsed
+
+
+ Performance counter stats for './build/false_sharing_padding-on':
+
+     7 504 427 227      instructions                                                
+     2 501 181 414      L1-dcache-loads                                             
+            57 303      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       1,408994550 seconds time elapsed
+

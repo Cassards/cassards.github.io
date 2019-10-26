@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/lab4.dir/lab4_main.cpp.o  -o lab4 ../labhelper/liblabhelper.a ../labhelper/imgui/libimgui.a -lSDL2 -lGLEW -lGL -lGLU 

@@ -1,0 +1,81 @@
+
+ Performance counter stats for './noPadding_1thread':
+
+     7 504 956 173      instructions                                                
+     2 501 344 771      L1-dcache-loads                                             
+            79 603      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       1,456665181 seconds time elapsed
+
+
+ Performance counter stats for './noPadding_2thread':
+
+    15 011 202 705      instructions                                                
+     5 003 216 329      L1-dcache-loads                                             
+        92 859 638      L1-dcache-load-misses     #    1,86% of all L1-dcache hits  
+
+       3,478770839 seconds time elapsed
+
+
+ Performance counter stats for './noPadding_4thread':
+
+    30 047 905 704      instructions                                                
+    10 014 219 590      L1-dcache-loads                                             
+       265 941 494      L1-dcache-load-misses     #    2,66% of all L1-dcache hits  
+
+       8,660456248 seconds time elapsed
+
+
+ Performance counter stats for './padding_1thread':
+
+     8 505 204 732      instructions                                                
+     2 501 415 161      L1-dcache-loads                                             
+            83 776      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       1,428564170 seconds time elapsed
+
+
+ Performance counter stats for './padding_2thread':
+
+    17 007 138 438      instructions                                                
+     5 001 990 322      L1-dcache-loads                                             
+           166 253      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       1,540952828 seconds time elapsed
+
+
+ Performance counter stats for './padding_4thread':
+
+    34 014 299 882      instructions                                                
+    10 004 126 784      L1-dcache-loads                                             
+           227 491      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       2,068354968 seconds time elapsed
+
+
+ Performance counter stats for './padding32_1thread':
+
+     8 505 290 573      instructions                                                
+     2 501 430 134      L1-dcache-loads                                             
+            75 271      L1-dcache-load-misses     #    0,00% of all L1-dcache hits  
+
+       1,431084405 seconds time elapsed
+
+
+ Performance counter stats for './padding32_2thread':
+
+    17 011 572 954      instructions                                                
+     5 003 326 760      L1-dcache-loads                                             
+        95 678 028      L1-dcache-load-misses     #    1,91% of all L1-dcache hits  
+
+       3,525275208 seconds time elapsed
+
+
+ Performance counter stats for './padding32_4thread':
+
+    34 031 874 119      instructions                                                
+    10 009 358 496      L1-dcache-loads                                             
+       253 685 427      L1-dcache-load-misses     #    2,53% of all L1-dcache hits  
+
+       5,132089355 seconds time elapsed
+

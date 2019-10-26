@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/lab5.dir/lab5_main.cpp.o CMakeFiles/lab5.dir/hdr.cpp.o  -o lab5 ../labhelper/liblabhelper.a ../labhelper/imgui/libimgui.a -lSDL2 -lGLEW -lGL -lGLU 

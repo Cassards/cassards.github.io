@@ -1,0 +1,27 @@
+
+ Performance counter stats for './lock1 1 40000000':
+
+     6 045 620 819      instructions                                                
+     1 721 553 805      L1-dcache-loads                                             
+           199 762      L1-dcache-load-misses     #    0,01% of all L1-dcache hits  
+
+       1,624419440 seconds time elapsed
+
+
+ Performance counter stats for './lock1 2 40000000':
+
+    13 222 059 660      instructions                                                
+     3 564 390 543      L1-dcache-loads                                             
+        56 876 518      L1-dcache-load-misses     #    1,60% of all L1-dcache hits  
+
+       5,345739229 seconds time elapsed
+
+
+ Performance counter stats for './lock1 4 40000000':
+
+    13 769 662 620      instructions                                                
+     3 727 566 446      L1-dcache-loads                                             
+        85 726 698      L1-dcache-load-misses     #    2,30% of all L1-dcache hits  
+
+       4,938725108 seconds time elapsed
+

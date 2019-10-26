@@ -1,0 +1,32 @@
+
+ Performance counter stats for './build/parallel_pthread 100000000 5 1':
+
+           503 305      LLC-loads                                                   
+           257 627      LLC-load-misses           #   51,19% of all LL-cache hits   
+
+       2,319979571 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_pthread 100000000 5 2':
+
+           509 702      LLC-loads                                                   
+           254 084      LLC-load-misses           #   49,85% of all LL-cache hits   
+
+       1,425786612 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_pthread 100000000 5 4':
+
+           523 455      LLC-loads                                                   
+           267 960      LLC-load-misses           #   51,19% of all LL-cache hits   
+
+       1,176675450 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_pthread 100000000 5 8':
+
+           537 917      LLC-loads                                                   
+           270 226      LLC-load-misses           #   50,24% of all LL-cache hits   
+
+       1,192178560 seconds time elapsed
+

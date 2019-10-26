@@ -1,0 +1,9 @@
+
+ Performance counter stats for './build/serial 100000 100000':
+
+   100 048 008 875      instructions                                                
+    70 015 098 797      L1-dcache-loads                                             
+     1 253 127 528      L1-dcache-load-misses     #    1,79% of all L1-dcache hits  
+
+      35,541659868 seconds time elapsed
+

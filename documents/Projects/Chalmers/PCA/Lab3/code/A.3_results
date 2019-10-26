@@ -1,0 +1,27 @@
+
+ Performance counter stats for './lock3 1 40000000':
+
+     1 324 317 917      instructions                                                
+       441 150 548      L1-dcache-loads                                             
+           106 993      L1-dcache-load-misses     #    0,02% of all L1-dcache hits  
+
+       0,670110254 seconds time elapsed
+
+
+ Performance counter stats for './lock3 2 40000000':
+
+     2 358 698 096      instructions                                                
+       779 336 794      L1-dcache-loads                                             
+         6 130 807      L1-dcache-load-misses     #    0,79% of all L1-dcache hits  
+
+       0,808234189 seconds time elapsed
+
+
+ Performance counter stats for './lock3 4 40000000':
+
+     3 116 518 079      instructions                                                
+     1 003 780 514      L1-dcache-loads                                             
+         5 105 680      L1-dcache-load-misses     #    0,51% of all L1-dcache hits  
+
+       0,856767900 seconds time elapsed
+

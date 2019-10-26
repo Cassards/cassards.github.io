@@ -1,0 +1,36 @@
+
+ Performance counter stats for './build/parallel_omp 100000 100000 1':
+
+   130 032 081 056      instructions                                                
+    90 010 506 391      L1-dcache-loads                                             
+     1 251 288 054      L1-dcache-load-misses     #    1,39% of all L1-dcache hits  
+
+      30,739765586 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_omp 100000 100000 2':
+
+   130 035 586 061      instructions                                                
+    90 010 899 710      L1-dcache-loads                                             
+     1 251 844 441      L1-dcache-load-misses     #    1,39% of all L1-dcache hits  
+
+      15,463901415 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_omp 100000 100000 4':
+
+   130 073 566 138      instructions                                                
+    90 021 805 145      L1-dcache-loads                                             
+     1 231 616 442      L1-dcache-load-misses     #    1,37% of all L1-dcache hits  
+
+      13,590280014 seconds time elapsed
+
+
+ Performance counter stats for './build/parallel_omp 100000 100000 8':
+
+   130 075 168 911      instructions                                                
+    90 023 351 086      L1-dcache-loads                                             
+     1 233 026 627      L1-dcache-load-misses     #    1,37% of all L1-dcache hits  
+
+      13,735800537 seconds time elapsed
+

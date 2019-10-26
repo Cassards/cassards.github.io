@@ -1,0 +1,8 @@
+
+ Performance counter stats for './build/serial_VAR 100000000 5':
+
+           497 846      LLC-loads                                                   
+           161 327      LLC-load-misses           #   32,41% of all LL-cache hits   
+
+       1,756725808 seconds time elapsed
+

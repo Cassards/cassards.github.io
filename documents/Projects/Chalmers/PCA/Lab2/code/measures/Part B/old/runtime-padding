@@ -1,0 +1,12 @@
+Padding disabled
+Size of data struct: 64
+
+Thread #0 data value=500000000
+Thread #1 data value=500000000
+Thread #2 data value=500000000
+Thread #3 data value=500000000
+
+real	0m2.095s
+user	0m8.108s
+sys	    0m0.000s
+
