@@ -7,6 +7,7 @@ header:
     image: "/images/perceptron/percept.jpg"
 excerpt: "Projets de Stochastic Optimization Algorithms"
 mathjax: true
+toc: true
 ---
 
 # Stochastic Optimization Algorithms

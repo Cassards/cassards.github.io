@@ -7,6 +7,7 @@ header:
     image: "/images/perceptron/percept.jpg"
 excerpt: "Projets de Parallel Computer Architecture"
 mathjax: true
+toc: true
 ---
 
 # Parallel Computer Architecture

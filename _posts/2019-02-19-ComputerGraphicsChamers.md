@@ -7,6 +7,7 @@ header:
     image: "/images/perceptron/percept.jpg"
 excerpt: "Projets de graphiques 3D avec OpenGL."
 mathjax: true
+toc: true
 ---
 
 # Computer Graphics

@@ -7,6 +7,7 @@ header:
     image: "/images/perceptron/percept.jpg"
 excerpt: "Projets de Gameplay Design"
 mathjax: true
+toc: true
 ---
 
 # Gameplay Design
