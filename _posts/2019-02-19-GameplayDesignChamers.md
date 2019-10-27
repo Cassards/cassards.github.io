@@ -31,12 +31,16 @@ Développer un concept de jeu de l'idée initiale à un document complet de game
 * [Description de l'idée de jeu]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3A.pdf)
 * [Slides de présentation du jeu]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3C.pdf)
 * [Rapport final du projet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3D.pdf)
-<label for="Slides de présentation">
+<label for="Slides de présentation"></label>
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf" type="application/pdf" width="100%" height="60%">
-</label>
+
+<label for="Slides de présentation">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf" type="application/pdf" width="100%" height="55%">
+
+<label for="Slides de présentation">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf" type="application/pdf" width="100%" height="50%">
 
 ## Autres travaux
-
 Les travaux suivants ne sont pas des projets en eux même, mais restent pertinents dans le cadre de l'apprentissage du game design.
 
 ### Définition d'un jeu

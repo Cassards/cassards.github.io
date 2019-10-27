@@ -47,6 +47,7 @@ Etude de la loi d'Amdahl dans la pratique.
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab1/code)
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf" type="application/pdf" width="100%" height="50%">
 
 ### Monitoring de performances
 #### Présentation
@@ -61,7 +62,7 @@ Monitoring et compréhension des performances des programmes parallèles.
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab2/code)
-
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf" type="application/pdf" width="100%" height="50%">
 
 ### Primitives de synchronisation
 #### Présentation
@@ -75,3 +76,4 @@ Familiariser avec les primitives de synchronisation.
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab3/code)
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf" type="application/pdf" width="100%" height="50%">
