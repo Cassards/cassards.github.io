@@ -35,6 +35,7 @@ Ce projet consiste en 3 parties distinctes :
 * Résoudre le problème du voyageur de commerce en utilisant plusieurs techniques (algorithme génétique et algorithme de colonies de fourmis).
 * Trouver les emplacements exacts de tous les minima locaux d'une fonction en utilisant l'optimisation par essaims particulaires.
 * Ajustement de courbe en utilisant un algorithme génétique. 
+
 ### Notions
 * Voyageur de commerce
 * Algorithme génétique
@@ -45,6 +46,6 @@ Ce projet consiste en 3 parties distinctes :
 
 ### Documents
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/FFR105_2018_HP2.pdf)
-* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/HP1_report_CASSARD_19960526-T313.pdf)
+* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/FFR105_HP2_19960526-T313.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/SOA/HP2/code)
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/SOA/HP2/FFR105_HP2_19960526-T313.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
