@@ -25,7 +25,9 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Technologie de mémoire
 
 [Problème à résoudre]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Scenario1.pdf)
+
 [Document d'étude réalisé]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf" type="application/pdf" width="100%" height="100%">
 
 
@@ -40,24 +42,30 @@ Etude de la loi d'Amdahl dans la pratique.
 #### Notions
 * PThread
 * OpenMP
-* Amdahl's law
+* Loi d'Amdahl
 
 [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf)
+
 [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf)
-[Code]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/code/)
+
+[Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab1/code)
+
 
 ### Monitoring de performances
 #### Présentation
 Monitoring et compréhension des performances des programmes parallèles.
 #### Notions
 * Monitoring de performance
-* Utilisation de l'outil perf (https://perf.wiki.kernel.org/index.php/Tutorial)
-* cache misses
-* niveaux de cache
+* Utilisation de l'outil [perf](https://perf.wiki.kernel.org/index.php/Tutorial)
+* Cache misses
+* Niveaux de cache
 
-[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/lab2.pdf)
-[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/lab2_report.pdf)
-[Code]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/code/)
+[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2.pdf)
+
+[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf)
+
+[Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab2/code)
+
 
 ### Primitives de synchronisation
 #### Présentation
@@ -68,5 +76,7 @@ Familiariser avec les primitives de synchronisation.
 * Barrière de synchronisation 
 
 [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf)
-[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3_report.pdf)
-[Code]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/code/)
+
+[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf)
+
+[Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab3/code)
