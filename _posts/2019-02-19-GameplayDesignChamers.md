@@ -32,7 +32,7 @@ Développer un concept de jeu de l'idée initiale à un document complet de game
 * [Slides de présentation du jeu]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3C.pdf)
 * [Rapport final du projet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3D.pdf)
 
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf#page=1&zoom=60" type="application/pdf" width="100%" height="60%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf#page=1&view=fit" type="application/pdf" width="100%" height="60%">
 
 ## Autres travaux
 Les travaux suivants ne sont pas des projets en eux même, mais restent pertinents dans le cadre de l'apprentissage du game design.
@@ -47,7 +47,7 @@ Donner une définition personnelle de ce qu'est un jeu.
 
 #### Documents
 * [Rendu final]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 1.pdf)
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 1.pdf#page=1&zoom=90" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 1.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
 
 ### Analyses de jeux à l'aide d'outils de game design
 #### Présentation 
@@ -61,7 +61,7 @@ Utiliser différents outils afin d'analyser et comparer plusieurs jeux (engageme
 
 #### Documents
 * [Rendu final]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 2.pdf)
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 2.pdf#page=1&zoom=90" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 2.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
 
 ### Conception d'un style de gameplay 
 #### Présentation 
@@ -73,4 +73,4 @@ Comprendre la conception d'un gameplay en décrivant, analysant et donnant des d
 
 #### Documents
 * [Rendu final]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 4.pdf)
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 4.pdf#page=1&zoom=90" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 4.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
