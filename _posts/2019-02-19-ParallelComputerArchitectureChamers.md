@@ -24,6 +24,11 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Technologie des processeurs 
 * Technologie de mémoire
 
+[Problème à résoudre]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Scenario1.pdf)
+[Document d'étude réalisé]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf" type="application/pdf" width="100%" height="100%">
+
+
 ## Travaux pratiques
 
 Voici quelques travaux pratiques réalisés dans le cadre de ce cours.
@@ -37,6 +42,9 @@ Etude de la loi d'Amdahl dans la pratique.
 * OpenMP
 * Amdahl's law
 
+[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf)
+[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf)
+[Code]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/code/)
 
 ### Monitoring de performances
 #### Présentation
@@ -47,6 +55,10 @@ Monitoring et compréhension des performances des programmes parallèles.
 * cache misses
 * niveaux de cache
 
+[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/lab2.pdf)
+[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/lab2_report.pdf)
+[Code]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/code/)
+
 ### Primitives de synchronisation
 #### Présentation
 Familiariser avec les primitives de synchronisation.
@@ -55,6 +67,6 @@ Familiariser avec les primitives de synchronisation.
 * Acquisition, libération, schéma d'attente. 
 * Barrière de synchronisation 
 
-
- 
- 
+[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf)
+[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3_report.pdf)
+[Code]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/code/)
