@@ -43,11 +43,11 @@ Etude de la loi d'Amdahl dans la pratique.
 * OpenMP
 * Loi d'Amdahl
 
-### Documents
+#### Documents
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab1/code)
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf" type="application/pdf" width="100%" height="50%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf" type="application/pdf" width="150%" height="50%">
 
 ### Monitoring de performances
 #### Présentation
@@ -58,7 +58,7 @@ Monitoring et compréhension des performances des programmes parallèles.
 * Cache misses
 * Niveaux de cache
 
-### Documents
+#### Documents
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab2/code)
@@ -72,7 +72,7 @@ Familiariser avec les primitives de synchronisation.
 * Acquisition, libération, schéma d'attente. 
 * Barrière de synchronisation 
 
-### Documents
+#### Documents
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab3/code)

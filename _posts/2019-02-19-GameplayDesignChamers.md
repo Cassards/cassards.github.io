@@ -31,14 +31,9 @@ Développer un concept de jeu de l'idée initiale à un document complet de game
 * [Description de l'idée de jeu]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3A.pdf)
 * [Slides de présentation du jeu]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3C.pdf)
 * [Rapport final du projet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 3D.pdf)
-<label for="Slides de présentation"></label>
+
+*Rapport final du projet:*
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf" type="application/pdf" width="100%" height="60%">
-
-<label for="Slides de présentation">
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf" type="application/pdf" width="100%" height="55%">
-
-<label for="Slides de présentation">
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf" type="application/pdf" width="100%" height="50%">
 
 ## Autres travaux
 Les travaux suivants ne sont pas des projets en eux même, mais restent pertinents dans le cadre de l'apprentissage du game design.
@@ -60,7 +55,7 @@ Donner une définition personnelle de ce qu'est un jeu.
 Utiliser différents outils afin d'analyser et comparer plusieurs jeux (engagement des joueurs, structures de conception mises en oeuvre, etc). 
 #### Notions 
 * Décrire le gameplay de deux jeux en utilisant des concepts académiques
-* Modéliser des jeux avec différents outils pour fournir différents types d'analyse ([Machinations](https://docs.machinations.io/) et [I*](https://en.wikipedia.org/wiki/I*))
+* Modéliser des jeux avec différents outils pour fournir différents types d'analyse ([Machinations](https://docs.machinations.io/) et [I\*](https://en.wikipedia.org/wiki/I*))
 * Expliquer comment les buts des joueurs peuvent influer sur les actions et les buts des autres joueurs.
 * Expliquer comment les jeux peuvent être conçus pour se terminer après un certain nombre de coups avec une bonne probabilité.
 * Donner un point de vue critique sur les concepts et les outils
