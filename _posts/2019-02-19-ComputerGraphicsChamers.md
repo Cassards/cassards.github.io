@@ -4,7 +4,7 @@ date: 2019-02-19
 permalink: /computer-graphics-chalmers/
 tags: [opengl, c++, chalmers, graphique 3D]
 header:
-    image: "/images/ProjectHeaders/CG1.png"
+    image: "/images/ProjectHeaders/CG.png"
 excerpt: "Projets de graphiques 3D avec OpenGL."
 mathjax: true
 toc: true
