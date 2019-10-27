@@ -4,7 +4,7 @@ date: 2019-02-19
 permalink: /gameplay-design-chalmers/
 tags: [gamedesign, gameplay, chalmers]
 header:
-    image: "/images/perceptron/percept.jpg"
+    image: "/images/ProjectHeaders/GD3.png"
 excerpt: "Projets de Gameplay Design"
 mathjax: true
 toc: true

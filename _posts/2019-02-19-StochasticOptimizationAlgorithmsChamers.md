@@ -4,7 +4,7 @@ date: 2019-02-19
 permalink: /stochastic-optimization-algorithms-chalmers/
 tags: [matlab, optimization, chalmers, métaheuristiques]
 header:
-    image: "/images/perceptron/percept.jpg"
+    image: "/images/ProjectHeaders/SOA2.jpg"
 excerpt: "Projets de Stochastic Optimization Algorithms"
 mathjax: true
 toc: true

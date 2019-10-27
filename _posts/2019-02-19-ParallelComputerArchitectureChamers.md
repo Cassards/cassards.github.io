@@ -4,7 +4,7 @@ date: 2019-02-19
 permalink: /parallel-computer-architecture-chalmers/
 tags: [programmation concurrente, c++, chalmers, architecture]
 header:
-    image: "/images/perceptron/percept.jpg"
+    image: "/images/ProjectHeaders/PCA2.jpg"
 excerpt: "Projets de Parallel Computer Architecture"
 mathjax: true
 toc: true
