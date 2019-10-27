@@ -32,7 +32,7 @@ Affichage et filtrage de textures.
 * Alpha blending
 
 ### Documents
-* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab1)
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab2-textures)
 
 ## Animation
 ### Présentation
