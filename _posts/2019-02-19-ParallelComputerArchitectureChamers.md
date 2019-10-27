@@ -27,8 +27,12 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 ### Documents
 * [Problème à résoudre]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Scenario1.pdf)
 * [Document d'étude réalisé]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
-<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110,center,top" type="application/pdf" width="100%" height="100%">
-
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110&view=fit" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110&view=fitH" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110&view=fitH, top" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110&view=fitV" type="application/pdf" width="100%" height="100%">
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf#page=1&zoom=110&view=fitV, top" type="application/pdf" width="100%" height="100%">
 ## Travaux pratiques
 
 Voici quelques travaux pratiques réalisés dans le cadre de ce cours.
