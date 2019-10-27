@@ -11,7 +11,7 @@ mathjax: true
 
 # Parallel Computer Architecture
 
-## Project
+## Réalisation d'un document d'étude pour la conception de systèmes informatiques parallèles
 
 ### Présentation
 Ecrire une étude sur les choix possibles dans la conception de systèmes informatiques parallèles lorsqu'il s'agit de résoudre un problème particulier nécessitant de réaliser des calculs complexes.
@@ -23,11 +23,9 @@ Ecrire une étude sur les choix possibles dans la conception de systèmes inform
 * Loi de Moore 
 * Technologie des processeurs 
 * Technologie de mémoire
-
-[Problème à résoudre]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Scenario1.pdf)
-
-[Document d'étude réalisé]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
-
+### Documents
+* [Problème à résoudre]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Scenario1.pdf)
+* [Document d'étude réalisé]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf)
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf" type="application/pdf" width="100%" height="100%">
 
 
@@ -43,28 +41,23 @@ Etude de la loi d'Amdahl dans la pratique.
 * PThread
 * OpenMP
 * Loi d'Amdahl
-
-[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf)
-
-[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf)
-
-[Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab1/code)
-
+### Documents
+* [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf)
+* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf)
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab1/code)
 
 ### Monitoring de performances
 #### Présentation
 Monitoring et compréhension des performances des programmes parallèles.
 #### Notions
 * Monitoring de performance
-* Utilisation de l'outil [perf](https://perf.wiki.kernel.org/index.php/Tutorial)
+* Utilisation de l'outil [perf](https://perf.wiki.kernel.org/index.php/Tutorial#Introduction)
 * Cache misses
 * Niveaux de cache
-
-[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2.pdf)
-
-[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf)
-
-[Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab2/code)
+### Documents
+* [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2.pdf)
+* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf)
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab2/code)
 
 
 ### Primitives de synchronisation
@@ -74,9 +67,7 @@ Familiariser avec les primitives de synchronisation.
 * Exclusion mutuelle
 * Acquisition, libération, schéma d'attente. 
 * Barrière de synchronisation 
-
-[Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf)
-
-[Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf)
-
-[Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab3/code)
+### Documents
+* [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf)
+* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf)
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/PCA/Lab3/code)
