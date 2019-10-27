@@ -19,7 +19,9 @@ Bases de l'écriture d'une application OpenGL.
 ### Notions
 * buffer objects (BO) / vertex array objects (VAO)
 * fragment & vertex shaders
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab1)
 
 ## Textures
 ### Présentation
@@ -28,7 +30,9 @@ Affichage et filtrage de textures.
 * Paramètre des textures
 * Filtrage des textures (mipmapping, anisotropic filtering)
 * Alpha blending
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab1)
 
 ## Animation
 ### Présentation
@@ -37,7 +41,9 @@ Applications de transformations pour déplacer des objets et la caméra.
 * Modèle Vue Projection Matrice
 * Transformations : Translation, rotation, mise à l'échelle.
 * Control de la caméra 
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab3-camera)
 
 ## Shaders
 ### Présentation
@@ -50,7 +56,9 @@ Calcul de l'éclairage direct à partir de points lumineux et de la réflexion s
 * Réflexions
 * Paramètres des matériaux 
 * Torrance-Sparrow Microfacet BRDF (Bidirectional Reflectance Distribution Function)
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab4-cubemapping)
 
 ## Post-traitement
 ### Présentation
@@ -59,7 +67,9 @@ Mise à jour dynamique des textures et application de passes de post-traitement.
 * Framebuffer
 * rendu hors écran utilisé comme texture
 * fragment shader pour les effets de post-traitement
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab5-rendertotexture)
 
 ## Shadow Maps
 ### Présentation
@@ -68,7 +78,9 @@ Calcul des ombres en temps réel en utilisant les shadow maps.
 * Shadow map
 * Shadow Acne
 * Hardware Support (Percentage Closer Filtering, depth map)
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab6-shadowmaps)
 
 ## Système de particules
 ### Présentation
@@ -76,4 +88,6 @@ Mise en place un système de particules.
 ### Notions
 * Générer et simuler des particules
 * Rendu des particules sur le GPU
-[image]
+
+### Documents
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab7-project)

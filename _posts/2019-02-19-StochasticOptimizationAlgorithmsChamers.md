@@ -23,6 +23,12 @@ Ce projet a pour objectif de mettre en place plusieurs méthodes d'optimisation 
 * Descente de gradient
 * Algorithme génétique
 
+### Documents
+* [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP1/FFR105_2018_HP1.pdf)
+* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP1/HP1_report_CASSARD_19960526-T313.pdf)
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/SOA/HP1/code)
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/SOA/HP1/HP1_report_CASSARD_19960526-T313.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
+
 ## Mise en application de différentes méthodes avancées d'optimisations
 ### Présentation
 Ce projet consiste en 3 parties distinctes :
@@ -36,3 +42,9 @@ Ce projet consiste en 3 parties distinctes :
 * Optimisation par essaims particulaires
 * Ajustement de courbe
 * Optimisation
+
+### Documents
+* [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/FFR105_2018_HP2.pdf)
+* [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/HP1_report_CASSARD_19960526-T313.pdf)
+* [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/SOA/HP2/code)
+<embed src="https://cassards.github.io/documents/Projects/Chalmers/SOA/HP2/FFR105_HP2_19960526-T313.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
