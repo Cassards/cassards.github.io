@@ -49,6 +49,7 @@ Ce projet consiste en 3 parties distinctes :
 * [Sujet]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/FFR105_2018_HP2.pdf)
 * [Rapport]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/SOA/HP2/FFR105_HP2_19960526-T313.pdf)
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/SOA/HP2/code)
-![TSP resolving with ACO]({{ site.url }}{{ site.baseurl }}/images/SOA/hp21-aco.gif)
-![PSO resolution]({{ site.url }}{{ site.baseurl }}/images/SOA/hp22-pso.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/SOA/hp21-aco.gif" alt="TSP resolving with ACO">
+<img src="{{ site.url }}{{ site.baseurl }}/images/SOA/hp22-pso.gif" alt="PSO resolution">
+
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/SOA/HP2/FFR105_HP2_19960526-T313.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">

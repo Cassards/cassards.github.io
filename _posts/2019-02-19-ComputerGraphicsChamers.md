@@ -23,7 +23,7 @@ Bases de l'écriture d'une application OpenGL.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab1)
-![screenshot from lab1]({{ site.url }}{{ site.baseurl }}/images/CG/screens/lab1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab1.gif" alt="short video from lab1">
 
 
 ## Textures
@@ -36,7 +36,7 @@ Affichage et filtrage de textures.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab2-textures)
-![short video from lab2]({{ site.url }}{{ site.baseurl }}/images/CG/screens/lab2.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab2.gif" alt="short video from lab2">
 
 ## Animation
 ### Présentation
@@ -48,7 +48,7 @@ Applications de transformations pour déplacer des objets et la caméra.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab3-camera)
-![short video from lab3]({{ site.url }}{{ site.baseurl }}/images/CG/screens/lab3.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab3.gif" alt="short video from lab3">
 
 ## Shaders
 ### Présentation
@@ -64,7 +64,7 @@ Calcul de l'éclairage direct à partir de points lumineux et de la réflexion s
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab4-cubemapping)
-![short video from lab4]({{ site.url }}{{ site.baseurl }}/images/CG/screens/lab4.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab4.gif" alt="short video from lab4">
 
 ## Post-traitement
 ### Présentation
@@ -76,7 +76,7 @@ Mise à jour dynamique des textures et application de passes de post-traitement.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab5-rendertotexture)
-![short video from lab5]({{ site.url }}{{ site.baseurl }}/images/CG/screens/lab5.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab5.gif" alt="short video from lab5">
 
 ## Shadow Maps
 ### Présentation
@@ -88,7 +88,7 @@ Calcul des ombres en temps réel en utilisant les shadow maps.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab6-shadowmaps)
-![short video from lab6]({{ site.url }}{{ site.baseurl }}/images/CG/screens/lab6.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab6.gif" alt="short video from lab6">
 
 ## Système de particules
 ### Présentation
@@ -99,4 +99,4 @@ Mise en place un système de particules.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab7-project)
-![short video from CG project]({{ site.url }}{{ site.baseurl }}/images/CG/screens/project.gif)
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/project.gif" alt="short video from CG project">
