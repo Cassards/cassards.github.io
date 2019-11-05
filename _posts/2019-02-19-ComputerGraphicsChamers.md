@@ -23,7 +23,7 @@ Bases de l'écriture d'une application OpenGL.
 
 ### Documents
 * [Code](https://github.com/Cassards/cassards.github.io/tree/master/documents/Projects/Chalmers/CG/lab1)
-<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab1.gif" alt="short video from lab1">
+<img src="{{ site.url }}{{ site.baseurl }}/images/CG/screens/lab1.png" alt="short video from lab1">
 
 
 ## Textures
