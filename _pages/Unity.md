@@ -7,7 +7,7 @@ header:
     image: "/images/fort point.png"
 ---
 
-# Créations Personnelles
+## Créations Personnelles
 
 <!-- Freeze -->
 <iframe src="https://itch.io/embed/494643?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
@@ -19,7 +19,7 @@ header:
 <iframe src="https://itch.io/embed/281363?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
 
 
-# Game Jams
+## Game Jams
 
 <!-- MetaWordPhose -->
 <iframe src="https://itch.io/embed/425738?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
@@ -35,6 +35,7 @@ header:
 
 
 <!-- Copy the code below and put it on the page where your projects will all be listed. -->
+<!--
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
@@ -46,3 +47,5 @@ header:
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
+-->
