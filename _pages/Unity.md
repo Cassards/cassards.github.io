@@ -9,14 +9,29 @@ header:
 
 # Créations Personnelles
 
-<iframe src="https://itch.io/embed/492471?bg_color=000000&amp;fg_color=f7a500&amp;link_color=fa5c5c&amp;border_color=90724d" width="552" height="167" frameborder="0"></iframe>
+<!-- Freeze -->
+<iframe src="https://itch.io/embed/494643?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
 
-<iframe src="https://itch.io/embed/281363?bg_color=2d2d2d&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167" frameborder="0"></iframe>
+<!-- Ring -->
+<iframe src="https://itch.io/embed/492471?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
 
-<iframe src="https://itch.io/embed/494643?bg_color=000000&amp;fg_color=49aaff&amp;link_color=e86b00&amp;border_color=534945" width="552" height="167" frameborder="0"></iframe>
+<!-- Call Of Ducky -->
+<iframe src="https://itch.io/embed/281363?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
 
 
 # Game Jams
+
+<!-- MetaWordPhose -->
+<iframe src="https://itch.io/embed/425738?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
+
+<!-- Fragrance of last coffee -->
+<iframe src="https://itch.io/embed/284799?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
+
+<!-- One Day -->
+<iframe src="https://itch.io/embed/313996?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
+
+<!-- Grumpy Gramps -->
+<iframe src="https://itch.io/embed/282747?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
 
 
 <!-- Copy the code below and put it on the page where your projects will all be listed. -->
