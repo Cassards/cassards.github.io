@@ -34,18 +34,3 @@ header:
 <iframe src="https://itch.io/embed/282747?border_width=5&amp;bg_color=252a34&amp;fg_color=ffffff&amp;border_color=51555d" width="560" height="175" frameborder="0"></iframe>
 
 
-<!-- Copy the code below and put it on the page where your projects will all be listed. -->
-<!--
-
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
-
--->
