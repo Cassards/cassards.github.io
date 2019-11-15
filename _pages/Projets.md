@@ -17,26 +17,11 @@ Vous retrouverez sur cette pages l'ensembles des projets que j'ai réalisés ou 
 * [Parallel Computer Architecture](/parallel-computer-architecture-chalmers/)
     
 ### Grenoble INP - Ensimag
-* CG
-* Crowley
-* POO / Projet gl
-* Projet rust ?
-* Programmation concurrente 
-* Projet web ?
+* [3D Computer Graphics](/3D-computer-graphics-ensimag/)
+* [](/issr/)
+* [Création d'une interface graphique en C](/projet-c/)
 
-## Projets Personnels
-
-### Réalisations personnelles
-* Call of Ducky
-* Fragrance of last coffee
-* Ring
-* Freeze
-
-### Réalisations en groupes
-* Grumpy Gramps
-* One Day
-* MetaWordPhose
-
+<!-- Ajouter lien vers projets perso -->
 ------ 
 
 ## Projets par catégories
