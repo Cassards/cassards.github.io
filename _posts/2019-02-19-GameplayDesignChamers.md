@@ -35,43 +35,40 @@ Développer un concept de jeu de l'idée initiale à un document complet de game
 
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 3C.pdf#page=1&view=fit" type="application/pdf" width="100%" height="60%">
 
-## Autres travaux
-Les travaux suivants ne sont pas des projets en eux même, mais restent pertinents dans le cadre de l'apprentissage du game design.
-
-### Définition d'un jeu
-#### Présentation 
+## Définition d'un jeu
+### Présentation 
 Donner une définition personnelle de ce qu'est un jeu.
-#### Notions 
+### Notions 
 * Réfléchir sur ce qu'est un jeu et sur la façon dont les autres voient le jeu.
 * Rédiger un texte argumentatif
 * Etudier les caractéristiques communes et les différences entre les genres et les médiums de jeux.
 
-#### Documents
+### Documents
 * [Rendu final]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 1.pdf)
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 1.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
 
-### Analyses de jeux à l'aide d'outils de game design
-#### Présentation 
+## Analyses de jeux à l'aide d'outils de game design
+### Présentation 
 Utiliser différents outils afin d'analyser et comparer plusieurs jeux (engagement des joueurs, structures de conception mises en oeuvre, etc). 
-#### Notions 
+### Notions 
 * Décrire le gameplay de deux jeux en utilisant des concepts académiques
 * Modéliser des jeux avec différents outils pour fournir différents types d'analyse ([Machinations](https://docs.machinations.io/) et [I\*](https://en.wikipedia.org/wiki/I*))
 * Expliquer comment les buts des joueurs peuvent influer sur les actions et les buts des autres joueurs.
 * Expliquer comment les jeux peuvent être conçus pour se terminer après un certain nombre de coups avec une bonne probabilité.
 * Donner un point de vue critique sur les concepts et les outils
 
-#### Documents
+### Documents
 * [Rendu final]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 2.pdf)
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 2.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
 
-### Conception d'un style de gameplay 
-#### Présentation 
+## Conception d'un style de gameplay 
+### Présentation 
 Comprendre la conception d'un gameplay en décrivant, analysant et donnant des directives pour un style de gameplay spécifique. 
-#### Notions
+### Notions
 * Analyser des jeux pour voir comment un style de gameplay peut être varié.
 * Relier les méthodes générales de conception à des domaines spécifiques du design.
 * Fournir des lignes directrices claires et des motivations pour ces lignes directrices.
 
-#### Documents
+### Documents
 * [Rendu final]({{ site.url }}{{ site.baseurl }}/documents/Projects/Chalmers/GD/Assignment 4.pdf)
 <embed src="https://cassards.github.io/documents/Projects/Chalmers/GD/Assignment 4.pdf#page=1&view=fit" type="application/pdf" width="100%" height="100%">
