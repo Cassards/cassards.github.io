@@ -6,7 +6,7 @@ author_profile: true
 header: 
     image: "/images/fort point.png"
 ---
-Vous retrouverez sur cette pages l'ensembles des projets que j'ai réalisés ou auxquels j'ai pu participer.
+Vous retrouverez sur cette pages quelques uns des projets auxquels j'ai pu participer.
 
 ## Projets Scolaires
 
@@ -18,7 +18,7 @@ Vous retrouverez sur cette pages l'ensembles des projets que j'ai réalisés ou 
     
 ### Grenoble INP - Ensimag
 * [3D Computer Graphics](/3D-computer-graphics-ensimag/)
-* [](/issr/)
+* [Reconnaissance de chiffres manuscrits à l'aide de réseaux neuronaux](/issr/)
 * [Création d'une interface graphique en C](/projet-c/)
 
 <!-- Ajouter lien vers projets perso -->
