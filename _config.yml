@@ -118,16 +118,16 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:sebastien@cassard.fr
+    - label: "itch.io"
+      icon: "fab fa-itch-io"
+      url: "https://shaib.itch.io/"
+    
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/Cassards"
     # - label: "LinkedIn"
     #   icon: "fa fa-fw fa-linkedin-square"
     #   #url: "https://www.linkedin.com/in/sebastien-cassard/"
-    # - label: "Itch.io"
-    #   icon: "fab fa-itch-io"
-    #   url: "https://shaib.itch.io/"
-
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
