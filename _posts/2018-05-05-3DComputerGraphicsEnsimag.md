@@ -10,8 +10,6 @@ mathjax: true
 toc: false
 ---
 
-# 3D Computer Graphics
-
 #### Présentation
 Ce projet prend place dans le cadre d'un cours d'introduction à l'informatique graphique. L'objectif de ce projet est de mettre en application l'ensemble des méthodes de modélisation, d'animation et de rendu vues en cours.
 
