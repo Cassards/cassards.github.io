@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /unity/
 title: "Mes réalisations sous Unity"
 author_profile: true
