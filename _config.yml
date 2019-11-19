@@ -112,7 +112,7 @@ author:
   bio              : "Ingénieur Ensimag (Informatique et mathématiques appliquées)"
   location         : "Région de Paris, FRANCE"
   linkedin         : "sebastien-cassard"
-  itchio           : "shaib"
+  #itchio           : "shaib"
   email            :
   links:
     - label: "Email"
