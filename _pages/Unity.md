@@ -3,7 +3,6 @@ layout: single
 permalink: /unity/
 title: "Mes réalisations sous Unity"
 author_profile: true
-tags: [Unity3D, Game Development, Game Jam]
 header: 
     image: "/images/Unity/unity.png"
 ---
