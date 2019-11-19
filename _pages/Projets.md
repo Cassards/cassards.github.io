@@ -18,8 +18,10 @@ Vous retrouverez sur cette pages quelques uns des projets auxquels j'ai pu parti
     
 ### Grenoble INP - Ensimag
 * [3D Computer Graphics](/3D-computer-graphics-ensimag/)
-* [Reconnaissance de chiffres manuscrits à l'aide de réseaux neuronaux](/issr/)
+* [Reconnaissance de chiffres manuscrits à l'aide de réseaux neuronaux](/isrr/)
 * [Création d'une interface graphique en C](/projet-c/)
+
+*Note : Afin d'éviter le plagia, l'Ensimag ne souhaite pas que le code des différents projets soit rendu public. Vous ne trouverez donc pour les projets Ensimag que les rendus finaux et les rapports*
 
 <!-- Ajouter lien vers projets perso -->
 ------ 
