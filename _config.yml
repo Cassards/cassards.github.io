@@ -112,6 +112,7 @@ author:
   bio              : "Ingénieur Ensimag (Informatique et mathématiques appliquées)"
   location         : "Région de Paris, FRANCE"
   linkedin         : "sebastien-cassard"
+  itchio           : "shaib"
   email            :
   links:
     - label: "Email"
@@ -123,7 +124,10 @@ author:
     - label: "LinkedIn"
       icon: "fa fa-fw fa-linkedin-square"
       #url: "https://www.linkedin.com/in/sebastien-cassard/"
-    
+    - label: "Itch.io"
+      icon: "fab fa-itch-io"
+      #url: "https://shaib.itch.io/"
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -163,6 +167,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Itch.io"
+      icon: "fab fa-itch-io" 
 
 # Reading Files
 include:

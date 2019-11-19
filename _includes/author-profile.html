@@ -121,6 +121,14 @@
         </li>
       {% endif %}
 
+      {% if author.itchio %}
+        <li>
+          <a href="https://{{ author.itchio }}.itch.io/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-itch-io" aria-hidden="true"></i> itchio
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.tumblr %}
         <li>
           <a href="https://{{ author.tumblr }}.tumblr.com" itemprop="sameAs" rel="nofollow noopener noreferrer">
