@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sébastien CASSARD"
   avatar           : "images/bio-pic-2.jpg"
-  bio              : "Ingénieur Ensimag \nInformatique et mathématiques appliquées"
+  bio              : "Ingénieur Ensimag (Informatique et mathématiques appliquées)"
   location         : "Région de Paris, FRANCE"
   linkedin         : "sebastien-cassard"
   email            :
