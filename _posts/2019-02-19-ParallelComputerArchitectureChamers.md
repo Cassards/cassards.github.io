@@ -5,6 +5,7 @@ permalink: /parallel-computer-architecture-chalmers/
 tags: [programmation concurrente, c++, chalmers, architecture]
 header:
     image: "/images/ProjectHeaders/PCA.png"
+    teaser: "/images/ProjectHeaders/PCA.png"
 excerpt: "Projets de Parallel Computer Architecture"
 mathjax: true
 toc: true
