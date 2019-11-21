@@ -2,8 +2,6 @@
 title: "A propos"
 classes: wide
 permalink: /about/
-header:
-    image: "/images/zakim.jpg"
 ---
 
 <style>
