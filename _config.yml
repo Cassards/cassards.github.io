@@ -116,13 +116,13 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: mailto:sebastien@cassard.fr
     - label: "itch.io"
       icon: "fab fa-itch-io"
       url: "https://shaib.itch.io/"
     - label: "CV"
-      icon: "fab fa-file-alt"
+      icon: "fas fa-file-alt"
       url: "https://cassards.github.io/documents/CV_Sebastien-CASSARD.pdf"
     
     # - label: "GitHub"

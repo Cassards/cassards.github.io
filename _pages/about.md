@@ -1,6 +1,6 @@
 ---
 title: "A propos"
-#classes: wide
+classes: wide
 permalink: /about/
 ---
 
