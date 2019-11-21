@@ -8,6 +8,7 @@ header:
 excerpt: "Projets de Gameplay Design"
 mathjax: true
 toc: true
+toc_sticky: true
 ---
 
 # Gameplay Design
