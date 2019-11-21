@@ -3,8 +3,8 @@ layout: archive
 permalink: /projets/
 title: "Mes différents projets"
 author_profile: true
-header: 
-    image: "/images/fort point.png"
+# header: 
+#     image: "/images/fort point.png"
 ---
 Vous retrouverez sur cette pages quelques uns des projets auxquels j'ai pu participer.
 

@@ -1,14 +1,16 @@
 ---
-title: "Stochastic Optimization Algorithms Projects - Chalmers University"
+title: "Stochastic Optimization Algorithms"
 date: 2019-02-19
 permalink: /stochastic-optimization-algorithms-chalmers/
 tags: [matlab, optimization, chalmers, métaheuristiques]
 header:
     image: "/images/ProjectHeaders/SOA.png"
-excerpt: "Projets de Stochastic Optimization Algorithms"
+    teaser: "/images/ProjectHeaders/SOA.png"
+excerpt: "Projets de Stochastic Optimization Algorithms (Chalmers University)"
 mathjax: true
 toc: true
 toc_sticky: true
+read_time: false
 ---
 
 # Stochastic Optimization Algorithms

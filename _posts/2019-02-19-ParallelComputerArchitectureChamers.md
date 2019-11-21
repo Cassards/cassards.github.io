@@ -1,15 +1,16 @@
 ---
-title: "Parallel Computer Architecture Projects - Chalmers University"
+title: "Parallel Computer Architecture"
 date: 2019-02-19
 permalink: /parallel-computer-architecture-chalmers/
 tags: [programmation concurrente, c++, chalmers, architecture]
 header:
     image: "/images/ProjectHeaders/PCA.png"
     teaser: "/images/ProjectHeaders/PCA.png"
-excerpt: "Projets de Parallel Computer Architecture"
+excerpt: "Projets de Parallel Computer Architecture (Chalmers University)"
 mathjax: true
 toc: true
 toc_sticky: true
+read_time: false
 ---
 
 # Parallel Computer Architecture

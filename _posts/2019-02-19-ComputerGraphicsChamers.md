@@ -1,14 +1,16 @@
 ---
-title: "Computer Graphics Projects - Chalmers University"
+title: "Computer Graphics"
 date: 2019-02-19
 permalink: /computer-graphics-chalmers/
 tags: [opengl, c++, chalmers, graphique 3D]
 header:
     image: "/images/ProjectHeaders/CG.png"
-excerpt: "Projets de graphiques 3D avec OpenGL."
+    teaser: "/images/ProjectHeaders/CG.png"
+excerpt: "Projets de graphiques 3D avec OpenGL en C++ (Chalmers University)"
 mathjax: true
 toc: true
 toc_sticky: true
+read_time: false
 ---
 
 # Computer Graphics

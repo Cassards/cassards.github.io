@@ -1,14 +1,16 @@
 ---
-title: "Gameplay Design Projects - Chalmers University"
+title: "Gameplay Design"
 date: 2019-02-19
 permalink: /gameplay-design-chalmers/
 tags: [gamedesign, gameplay, chalmers]
 header:
     image: "/images/ProjectHeaders/GD.png"
-excerpt: "Projets de Gameplay Design"
+    teaser: "/images/ProjectHeaders/GD.png"
+excerpt: "Projets de Gameplay Design (Chalmers University)"
 mathjax: true
 toc: true
 toc_sticky: true
+read_time: false
 ---
 
 # Gameplay Design

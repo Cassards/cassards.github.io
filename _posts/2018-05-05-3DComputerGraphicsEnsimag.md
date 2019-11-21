@@ -1,13 +1,15 @@
 ---
-title: "3D Computer Graphics Projects - Ensimag"
+title: "3D Computer Graphics"
 date: 2018-05-05
 permalink: /3D-computer-graphics-ensimag/
 tags: [opengl, python, ensimag, graphique 3D]
 header:
     image: "/images/ProjectHeaders/3DCG.png"
-excerpt: "Projets de graphiques 3D avec OpenGL."
+    teaser: "/images/ProjectHeaders/3DCG.png"
+excerpt: "Projets de graphiques 3D avec OpenGL en Python (Ensimag)."
 mathjax: true
 toc: false
+read_time: false
 ---
 
 ### Présentation
