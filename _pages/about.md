@@ -1,6 +1,6 @@
 ---
-layout: splash
-# layout: home
+#layout: splash # Plein ecran
+layout: home
 # layout: default
 # layout: compress
 title: "A propos"
