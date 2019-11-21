@@ -13,7 +13,7 @@ div {
 
 Bonjour et bienvenue sur mon portfolio !
 
-Je m'appelle Sébastien CASSARD et je suis ingénieur en informatique et mathématiques appliquées. 
+Je suis ingénieur en informatique et mathématiques appliquées. 
 
 Je m'intéresse particulièrement au domaine du jeu vidéo pour lequel j'ai une appétence toute particulière. 
 
