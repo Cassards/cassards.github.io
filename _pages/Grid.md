@@ -1,10 +1,10 @@
 ---
-title: Grid
+title: Portfolio
 layout: collection
 permalink: /grid/
-collection: _posts
+collection: posts
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_posts`.
+Sample document listing for the collection `_portfolio`.
