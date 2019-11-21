@@ -1,8 +1,7 @@
 ---
 #layout: splash # Plein ecran
 #layout: home   # same ?
-# layout: default
-layout: compress
+layout: default
 title: "A propos"
 permalink: /about/
 header:
