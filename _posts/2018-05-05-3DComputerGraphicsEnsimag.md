@@ -6,7 +6,7 @@ tags: [opengl, python, ensimag, graphique 3D]
 header:
     image: "/images/ProjectHeaders/3DCG.png"
     teaser: "/images/ProjectHeaders/3DCG.png"
-excerpt: "Projets de graphiques 3D avec OpenGL en Python (Ensimag)."
+excerpt: "Projet de graphiques 3D avec OpenGL en Python (Ensimag)."
 mathjax: true
 toc: false
 read_time: false
