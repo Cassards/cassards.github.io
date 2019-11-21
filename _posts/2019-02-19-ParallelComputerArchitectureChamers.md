@@ -8,6 +8,7 @@ header:
 excerpt: "Projets de Parallel Computer Architecture"
 mathjax: true
 toc: true
+toc_sticky: true
 ---
 
 # Parallel Computer Architecture

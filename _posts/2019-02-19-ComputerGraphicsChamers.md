@@ -8,6 +8,7 @@ header:
 excerpt: "Projets de graphiques 3D avec OpenGL."
 mathjax: true
 toc: true
+toc_sticky: true
 ---
 
 # Computer Graphics

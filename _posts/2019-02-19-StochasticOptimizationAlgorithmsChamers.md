@@ -8,6 +8,7 @@ header:
 excerpt: "Projets de Stochastic Optimization Algorithms"
 mathjax: true
 toc: true
+toc_sticky: true
 ---
 
 # Stochastic Optimization Algorithms
