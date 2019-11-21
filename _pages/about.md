@@ -1,12 +1,28 @@
 ---
-#layout: splash # Plein ecran
-#layout: home   # same ?
-layout: default
 title: "A propos"
 permalink: /about/
 header:
     image: "/images/zakim.jpg"
 ---
+
+<
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+>
+Bonjour et bienvenue sur mon portfolio !
+
+Je m'appelle Sébastien CASSARD et je suis ingénieur en informatique et mathématiques appliquées. 
+
+Je m'intéresse particulièrement au domaine du jeu vidéo pour lequel j'ai une appétence toute particulière. 
+
+En parallèle de mon cursus d'ingénieur au sein de l'Ensimag (École Nationale Supérieure d'Informatique et de Mathématiques Appliquées de Grenoble) je me suis formé au développement de jeux vidéo. 
+
+J'ai principalement suivi des formations en ligne sur le moteur Unity 3D et ai passé 6 mois en Suède à l'université de Chalmers, où j'ai notamment suivi des cours de gameplay design et d'informatique graphique.
+
 Bonjour et bienvenue sur mon portfolio !
 
 Je m'appelle Sébastien CASSARD et je suis ingénieur en informatique et mathématiques appliquées. 
