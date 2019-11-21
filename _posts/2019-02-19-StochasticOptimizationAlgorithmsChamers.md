@@ -19,7 +19,7 @@ Ce cours était structuré autour de différents "Home problems" à rendre toute
 
 ## Mise en application de différentes méthodes basiques d'optimisations
 ### Présentation
-Ce projet a pour objectif de mettre en place plusieurs méthodes d'optimisation de fonction. (pénalisation, descente de gradient, algorithme génétique).
+Ce projet a pour objectif de mettre en place plusieurs méthodes d'optimisation de fonction (pénalisation, descente de gradient, algorithme génétique).
 ### Notions
 * Optimisation sous contraintes
 * Optimisation sans contraintes
