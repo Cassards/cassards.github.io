@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://sebastien.cassard.fr/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/projets/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/unity/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/about/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/stochastic-optimization-algorithms-chalmers/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/parallel-computer-architecture-chalmers/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/gameplay-design-chalmers/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/computer-graphics-chalmers/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/3D-computer-graphics-ensimag/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/isrr/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/projet-c/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/SOA/HP1/FFR105_2018_HP1.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/SOA/HP1/HP1_report_CASSARD_19960526-T313.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/SOA/HP2/FFR105_2018_HP2.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/SOA/HP2/FFR105_HP2_19960526-T313.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/tags/</loc>
+  <lastmod>2019-11-22T11:12:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Scenario1.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/EDA284_H18_paper_7.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Lab1/lab1.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Lab1/lab1_report.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Lab2/Lab2.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Lab2/Lab2_report.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Lab3/lab3.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/PCA/Lab3/Lab3_report.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/GD/Assignment%203A.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/GD/Assignment%203C.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/GD/Assignment%203D.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/GD/Assignment%201.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/GD/Assignment%202.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Chalmers/GD/Assignment%204.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://sebastien.cassard.fr/documents/Projects/Ensimag/CG/Rapport%20Graphique%203D.pdf</loc>
+  <lastmod>2019-11-22T11:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
