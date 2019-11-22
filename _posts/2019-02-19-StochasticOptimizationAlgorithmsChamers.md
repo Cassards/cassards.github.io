@@ -15,9 +15,9 @@ read_time: false
 
 # Stochastic Optimization Algorithms
 
-Ce cours était structuré autour de différents "Home problems" à rendre toutes les 3 semaines. Ceux ci correspondent à des projets à réaliser en autonomie, demandant de mettre en application les concepts théoriques vus en cours.
+Ce cours était structuré autour de différents "Home problems" à rendre toutes les 3 semaines. Ces derniers prenaient la forme de projets à réaliser en autonomie, demandant de mettre en application les concepts théoriques vus en cours.
 
-## Mise en application de différentes méthodes basiques d'optimisations
+## Mise en application de différentes méthodes basiques d'optimisation
 ### Présentation
 Ce projet a pour objectif de mettre en place plusieurs méthodes d'optimisation de fonction (pénalisation, descente de gradient, algorithme génétique).
 ### Notions

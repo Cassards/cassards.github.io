@@ -20,12 +20,12 @@ Voici les descriptifs des différents travaux que j'ai pu réaliser.
 
 ## Création d'un jeu de plateau
 ### Présentation 
-Développer un concept de jeu de l'idée initiale à un document complet de game design, en utilisant des processus de conception et de prototypage itératifs.
+Développer un concept de jeu complet, depuis l'idée initiale jusqu'à un document complet de game design, en utilisant des processus de conception et de prototypage itératifs.
 ### Notions 
 * Travail d'équipe
 * Expliquer des concepts de jeu sous forme de mécaniques de jeu.
 * Planifier des projets de conception de jeux selon la description des meilleures pratiques.
-* Spécifier un public cible et développer des concepts de game design spécifiques pour un public cible spécifique.
+* Développer des concepts de game design correspondant au public spécifié.
 * Présenter des concepts de jeux à une audience.
 * Faire une description détaillée d'un concept de jeu
 * Planifier et décrire le processus de développement d'un concept
