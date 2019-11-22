@@ -78,7 +78,7 @@ google:
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : C257C0F05605077FD120E7C260C0402B
 yandex_site_verification :
 naver_site_verification  :
 
@@ -99,10 +99,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "UA-153069343-1"
+    anonymize_ip         : true
 
 
 # Site Author
