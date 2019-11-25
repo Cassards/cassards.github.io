@@ -26,5 +26,5 @@ Pendant mes études, j'ai été membre de l'association de jeux vidéo de l’En
 Vous trouverez sur ce site différents projets que j'ai pu réaliser au cours de mes études ainsi que mes différentes réalisations (game jam et projets personnels). 
 
 
-Pour plus de détails je vous invite à consulter mon CV ci-dessous ou à suivre [ce lien](https://cassards.github.io/documents/CV_Sebastien-CASSARD.pdf#page=1).
+dPour plus e détails je vous invite à consulter mon CV ci-dessous ou à suivre [ce lien](https://cassards.github.io/documents/CV_Sebastien-CASSARD.pdf#page=1).
 <embed src="https://cassards.github.io/documents/CV_Sebastien-CASSARD.pdf#page=1&view=fitV" type="application/pdf" width="100%" height="130%">
