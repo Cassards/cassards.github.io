@@ -17,7 +17,7 @@ Thank you for visiting my portfolio!
 I am a French engineer in computer science and applied mathematics. 
 I am particularly interested in video games, for which I have a strong interest. 
 
-Unfortunately I have not yet translated this site in english. The presentations of my projects are therefore only available in French.
+Unfortunately I have not yet translated this site in English. The presentations of my projects are therefore only available in French.
 
 However, I encourage you to visit my [LinkedIn](www.linkedin.com/in/sebastien-cassard) or [my itch.io](https://shaib.itch.io/)(which you will find my personal game development projects also available [here](/unity/)) page which are written in English.
 

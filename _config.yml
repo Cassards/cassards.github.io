@@ -121,10 +121,10 @@ author:
     - label: "itch.io"
       icon: "fab fa-itch-io"
       url: "https://shaib.itch.io/"
-    - label: "CV (fr)"
+    - label: "CV (Français)"
       icon: "fas fa-file-alt"
       url: "https://cassards.github.io/documents/CV_Sebastien-CASSARD.pdf"
-    - label: "Resume (english)"
+    - label: "Resume (English)"
       icon: "far fa-file-alt"
       url: "https://cassards.github.io/documents/Resume_Sebastien-CASSARD.pdf"
     
