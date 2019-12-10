@@ -15,7 +15,7 @@ Bonjour et bienvenue sur mon portfolio !
 
 Je suis ingénieur en informatique et mathématiques appliquées. 
 
-Je m'intéresse particulièrement au domaine du jeu vidéo pour lequel j'ai une forte appétence. 
+Je m'intéresse particulièrement au domaine du jeu vidéo et domaine des média interactifs, ainsi qu'a la programmation 3D. 
 
 En parallèle de mon cursus d'ingénieur au sein de l'Ensimag (École Nationale Supérieure d'Informatique et de Mathématiques Appliquées de Grenoble) je me suis formé au développement de jeux vidéo. 
 
